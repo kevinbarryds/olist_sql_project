@@ -3,6 +3,7 @@ data/
 *.sqlite
 *.sqlite3
 *.db
+*.png
 
 # DBeaver / editor
 .dbeaver/
