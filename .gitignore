@@ -9,3 +9,5 @@ data/
 .dbeaver/
 .vscode/
 .DS_Store
+# Keep documentation images
+!docs/*.png
